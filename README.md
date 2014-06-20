@@ -1,0 +1,2 @@
+rust-nighty-installer
+=====================
